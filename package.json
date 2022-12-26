@@ -1,0 +1,12 @@
+{
+  "name": "snippets",
+  "version": "1.0.0",
+  "description": "some snippets",
+  "main": "index.js",
+  "keywords": [],
+  "author": "dragon",
+  "license": "ISC",
+  "dependencies": {
+    "vue": "^3.2.36"
+  }
+}
